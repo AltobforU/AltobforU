@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!-- saved from url=(0071)file:///C:/Users/user/AppData/Local/Temp/Rar$EXa0.304/foryou/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pesan Untuk Najwa</title>
+  <link rel="stylesheet" href="./Message for you_files/style.css">
+ </head>
+ <body>
+  <div class="wrapper">
+   <h2 class="question">Kamu Suka Ngak Sama Aku</h2>
+   <img class="gif" alt="gif" src="./Message for you_files/gifyou.webp">
+   <div class="btn-group"> <button class="yes-btn">Ya</button> <button class="no-btn" style="left: 355px; top: 561px;">Gk</button>
+   </div>
+  </div>
+  <script src="./Message for you_files/script.js.download"></script>
+
+</body></html>
